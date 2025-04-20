@@ -1,0 +1,2 @@
+- Fully functional console-based blackjack game. 
+- Created in C++ using Clion
